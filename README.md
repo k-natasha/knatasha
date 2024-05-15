@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Karen Natasha</h1>
 <h3 align="left">A Paris based product designer curious with front-end coding</h3>
+![giphy (2)](https://github.com/keyoree/knatasha/assets/75724900/1f3fe63c-a64e-409a-baff-5e0c39dd2bd2)
 
 - 🌱 I’m currently learning **Front-end Development**
 
