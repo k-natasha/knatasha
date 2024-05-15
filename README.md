@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Karen Natasha</h1>
 <h3 align="left">A frontend development curious based in Paris</h3>
-- 🌱 I’m currently learning **Front-end Development**
-- 💬 Ask me about **Product Design (UX/UI) stuffs 🤓**
+<p> - 🌱 I’m currently learning **Front-end Development** </p>
+<p> - 💬 Ask me about **Product Design (UX/UI) stuffs 🤓** </p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
