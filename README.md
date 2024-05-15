@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karen Natasha</h1>
 <h3 align="center">A frontend development curious based in Paris</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyoree" alt="keyoree" /></a> </p>
-
 - 🌱 I’m currently learning **Front-end Development**
 
 - 💬 Ask me about **Product Design (UX/UI) stuffs 🤓**
