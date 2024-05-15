@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karen Natasha</h1>
-<h3 align="center">A frontend development curious based in Paris</h3>
+<h1 align="left">Hi 👋, I'm Karen Natasha</h1>
+<h3 align="left">A frontend development curious based in Paris</h3>
 
 - 🌱 I’m currently learning **Front-end Development**
 
